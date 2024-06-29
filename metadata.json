@@ -11,7 +11,7 @@
     "Id": "nixos-progressbar",
     "License": "GPLv3",
     "Name": "Nixos Progress Bar",
-    "Website": "https://github.com/kraken-afk/archsimpleblue-kde6"
+    "Website": "https://github.com/DJ-Laser/Nixos-Plasma-Splash"
   },
   "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
   "X-Plasma-APIVersion": "2",
