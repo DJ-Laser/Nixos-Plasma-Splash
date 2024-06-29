@@ -1,0 +1,19 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "DJ_Laser"
+      }
+    ],
+    "Category": "",
+    "Description": "A blue Nixos logo and moving progress bar",
+    "Id": "nixos-progressbar",
+    "License": "GPLv3",
+    "Name": "Nixos Progress Bar",
+    "Website": "https://github.com/kraken-afk/archsimpleblue-kde6"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2",
+  "X-Plasma-MainScript": "default"
+}
